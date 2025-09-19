@@ -18,8 +18,8 @@ importers:
         specifier: ^20.3.1
         version: 20.3.1(rxjs@7.8.2)
       '@umeshp1212/browser-downloader':
-        specifier: ^1.0.2
-        version: 1.0.2
+        specifier: ^1.0.4
+        version: 1.0.4
     devDependencies:
       typescript:
         specifier: ^5.9.2
@@ -34,8 +34,8 @@ importers:
   packages/react:
     dependencies:
       '@umeshp1212/browser-downloader':
-        specifier: ^1.0.2
-        version: 1.0.2
+        specifier: ^1.0.4
+        version: 1.0.4
       react:
         specifier: ^19.1.1
         version: 19.1.1
@@ -65,8 +65,8 @@ packages:
   '@types/react@19.1.13':
     resolution: {integrity: sha512-hHkbU/eoO3EG5/MZkuFSKmYqPbSVk5byPFa3e7y/8TybHiLMACgI8seVYlicwk7H5K/rI2px9xrQp/C+AUDTiQ==}
 
-  '@umeshp1212/browser-downloader@1.0.2':
-    resolution: {integrity: sha512-QFjPa9U6ejtgRmAXQp1FBHZ7boz+/qYIYTfaFe5plU25RF8QMeJcWwKLlVrUiQ/KwPOBQm5nv+NX6PpGhbVALA==}
+  '@umeshp1212/browser-downloader@1.0.4':
+    resolution: {integrity: sha512-3EMvOQvTYAV2T5kTuDLiyPDYasA0pfHa41Rl5dc5P4RXVFGboLGymf4D8ou2fBG8zGLON2DtcSJvaD+U3Qgebw==, tarball: https://npm.pkg.github.com/download/@umeshp1212/browser-downloader/1.0.4/e69d2402c5938e8930588df319e8f130062d5799}
 
   csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
@@ -131,7 +131,7 @@ snapshots:
     dependencies:
       csstype: 3.1.3
 
-  '@umeshp1212/browser-downloader@1.0.2': {}
+  '@umeshp1212/browser-downloader@1.0.4': {}
 
   csstype@3.1.3: {}
 

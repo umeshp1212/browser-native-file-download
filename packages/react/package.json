@@ -1,6 +1,9 @@
 {
   "name": "@umeshp1212/react-downloader",
-  "version": "1.0.3",
+  "version": "1.0.4",
+   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@umeshp1212"
+  },
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +20,7 @@
   "packageManager": "pnpm@10.17.0",
   "dependencies": {
     "react": "^19.1.1",
-    "@umeshp1212/browser-downloader": "^1.0.3"
+    "@umeshp1212/browser-downloader": "^1.0.4"
   },
   "devDependencies": {
     "typescript": "^5.9.2",
