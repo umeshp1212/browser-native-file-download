@@ -1,0 +1,19 @@
+{
+  "name": "browser-native-file-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.6"
+  }
+}

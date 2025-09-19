@@ -1,0 +1,21 @@
+{
+   "name": "@umeshp1212/browser-downloader",
+   "version": "1.0.3",
+   "description": "",
+   "main": "dist/index.js",
+   "types": "dist/index.d.ts",
+    "files": [
+    "dist",
+    "README.md"
+  ],
+   "scripts": {
+      "build": "tsc"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "packageManager": "pnpm@10.17.0",
+   "devDependencies": {
+      "typescript": "^5.9.2"
+   }
+}
