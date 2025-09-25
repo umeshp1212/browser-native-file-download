@@ -1,8 +1,8 @@
 {
   "name": "@umeshp1212/angular-native-download",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@umeshp1212"
+    "registry": "https://registry.npmjs.org/"
   },
   "description": "",
   "main": "dist/download.service.js",
@@ -20,9 +20,9 @@
   "packageManager": "pnpm@10.17.0",
   "dependencies": {
     "@angular/core": "^20.3.1",
-    "@umeshp1212/browser-downloader": "^1.0.4"
+    "@umeshp1212/browser-downloader": "^1.0.5"
   },
   "devDependencies": {
-    "typescript": "^5.9.2"   
+    "typescript": "^5.9.2"
   }
 }
