@@ -15,7 +15,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Umesh Patil",
   "license": "ISC",
   "packageManager": "pnpm@10.17.0",
   "dependencies": {
